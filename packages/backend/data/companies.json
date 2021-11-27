@@ -1,0 +1,155 @@
+[
+    {
+        "id": "1",
+        "name": "Feedspan",
+        "specialties": [
+            "Plumbing",
+            "Electrical"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Floresta"
+    },
+    {
+        "id": "2",
+        "name": "Skinte",
+        "specialties": [
+            "Excavation",
+            "Plumbing",
+            "Electrical"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Shingū"
+    },
+    {
+        "id": "3",
+        "name": "Dynazzy",
+        "specialties": [
+            "Excavation",
+            "Plumbing"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Duraznopampa"
+    },
+    {
+        "id": "4",
+        "name": "Chatterpoint",
+        "specialties": [
+            "Plumbing",
+            "Heating"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Utmānzai"
+    },
+    {
+        "id": "5",
+        "name": "Buzzshare",
+        "specialties": [
+            "Plumbing"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Hengxi"
+    },
+    {
+        "id": "6",
+        "name": "Dabvine",
+        "specialties": [
+            "Plumbing",
+            "Electrical"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Sung Noen"
+    },
+    {
+        "id": "7",
+        "name": "Linkbridge",
+        "specialties": [
+            "Electrical",
+            "Excavation"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Funchal"
+    },
+    {
+        "id": "8",
+        "name": "Yakijo",
+        "specialties": [
+            "Plumbing",
+            "Electrical",
+            "Heating"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Kyshtym"
+    },
+    {
+        "id": "9",
+        "name": "Twitterbeat",
+        "specialties": [
+            "Plumbing",
+            "Electrical"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Al Hijrah"
+    },
+    {
+        "id": "10",
+        "name": "Skipfire",
+        "specialties": [
+            "Excavation"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Peace River"
+    },
+    {
+        "id": "11",
+        "name": "Buzzbean",
+        "specialties": [
+            "Excavation",
+            "Plumbing",
+            "Electrical",
+            "Heating"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Encrucijada"
+    },
+    {
+        "id": "12",
+        "name": "Oyonder",
+        "specialties": [
+            "Excavation",
+            "Electrical"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Maketu"
+    },
+    {
+        "id": "13",
+        "name": "Edgeify",
+        "specialties": [
+            "Excavation",
+            "Plumbing",
+            "Heating"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Sovetsk"
+    },
+    {
+        "id": "14",
+        "name": "Digitube",
+        "specialties": [
+            "Electrical"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Zhambyl"
+    },
+    {
+        "id": "15",
+        "name": "Linktype",
+        "specialties": [
+            "Plumbing",
+            "Electrical",
+            "Heating"
+        ],
+        "logo": "https://picsum.photos/40",
+        "city": "Kimch’aek-si"
+    }
+]
