@@ -34,7 +34,6 @@
         "id": "4",
         "name": "Chatterpoint",
         "specialties": [
-            "Plumbing",
             "Heating"
         ],
         "logo": "https://picsum.photos/40",
@@ -53,7 +52,6 @@
         "id": "6",
         "name": "Dabvine",
         "specialties": [
-            "Plumbing",
             "Electrical"
         ],
         "logo": "https://picsum.photos/40",

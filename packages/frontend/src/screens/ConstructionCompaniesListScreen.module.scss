@@ -1,0 +1,12 @@
+.pageTitle {
+    padding: 50px 0;
+}
+.errorBox {
+    background: var(--danger-color);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    p {
+        margin: 0;
+    }
+}
